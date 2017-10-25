@@ -1,0 +1,132 @@
+[08-Sep-2017 11:29:33 Europe/Madrid] PHP Warning:  unlink(../uploads/headers/thumbnail/08092017112916053920.jpg): No existe el fichero o el directorio in /home/javierma/public_html/devxerintel/intranet/cargas.php on line 58
+[08-Sep-2017 11:30:15 Europe/Madrid] PHP Warning:  unlink(../uploads/headers/thumbnail/08092017112933740208.png): No existe el fichero o el directorio in /home/javierma/public_html/devxerintel/intranet/cargas.php on line 58
+[08-Sep-2017 11:34:45 Europe/Madrid] PHP Warning:  getimagesize(): Filename cannot be empty in /home/javierma/public_html/devxerintel/intranet/cargas.php on line 14
+[10-Oct-2017 14:09:25 Europe/Madrid] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130968 bytes) in /home/javierma/public_html/lib/vendor/doctrine/Doctrine/Query.php on line 1133
+[10-Oct-2017 14:09:46 Europe/Madrid] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130968 bytes) in /home/javierma/public_html/lib/vendor/doctrine/Doctrine/Query.php on line 1133
+[10-Oct-2017 14:09:55 Europe/Madrid] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130968 bytes) in /home/javierma/public_html/lib/vendor/doctrine/Doctrine/Query.php on line 1133
+[10-Oct-2017 14:10:03 Europe/Madrid] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130968 bytes) in /home/javierma/public_html/lib/vendor/doctrine/Doctrine/Query.php on line 1133
+[10-Oct-2017 14:10:23 Europe/Madrid] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130968 bytes) in /home/javierma/public_html/lib/vendor/doctrine/Doctrine/Query.php on line 1133
+[10-Oct-2017 14:11:51 Europe/Madrid] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130968 bytes) in /home/javierma/public_html/lib/vendor/doctrine/Doctrine/Query.php on line 1133
+[10-Oct-2017 14:12:10 Europe/Madrid] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130968 bytes) in /home/javierma/public_html/lib/vendor/doctrine/Doctrine/Query/Tokenizer.php on line 352
+[10-Oct-2017 14:12:36 Europe/Madrid] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130968 bytes) in /home/javierma/public_html/lib/vendor/doctrine/Doctrine/Query/Tokenizer.php on line 352
+[10-Oct-2017 14:17:02 Europe/Madrid] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130968 bytes) in /home/javierma/public_html/lib/vendor/doctrine/Doctrine/Query/Tokenizer.php on line 352
+[10-Oct-2017 14:17:16 Europe/Madrid] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130968 bytes) in /home/javierma/public_html/lib/vendor/doctrine/Doctrine/Query/Tokenizer.php on line 352
+[10-Oct-2017 14:17:21 Europe/Madrid] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130968 bytes) in /home/javierma/public_html/lib/vendor/doctrine/Doctrine/Query/Tokenizer.php on line 352
+[10-Oct-2017 14:20:25 Europe/Madrid] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130968 bytes) in /home/javierma/public_html/lib/vendor/doctrine/Doctrine/Query/Tokenizer.php on line 352
+[10-Oct-2017 14:20:42 Europe/Madrid] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130968 bytes) in /home/javierma/public_html/lib/vendor/doctrine/Doctrine/Query.php on line 1133
+[18-Oct-2017 20:03:46 Europe/Madrid] PHP Warning:  getimagesize(): Filename cannot be empty in /home/formacion/public_html/p5/intranet/cargas.php on line 14
+[18-Oct-2017 20:04:03 Europe/Madrid] PHP Warning:  getimagesize(): Filename cannot be empty in /home/formacion/public_html/p5/intranet/cargas.php on line 14
+[19-Oct-2017 16:59:58 Europe/Madrid] PHP Warning:  getimagesize(): Filename cannot be empty in /home/formacion/public_html/p5/intranet/cargas.php on line 14
+[19-Oct-2017 17:03:47 Europe/Madrid] PHP Warning:  mb_strlen() expects parameter 1 to be string, array given in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Validator.php on line 131
+[19-Oct-2017 17:03:47 Europe/Madrid] PHP Fatal error:  Uncaught exception 'Doctrine_Validator_Exception' with message 'Validation failed in class Headers
+
+  1 field had validation error:
+
+    * 1 validator failed on link (type)
+' in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Transaction.php:265
+Stack trace:
+#0 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Connection.php(1395): Doctrine_Transaction->commit(NULL)
+#1 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Connection/UnitOfWork.php(148): Doctrine_Connection->commit()
+#2 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record.php(1718): Doctrine_Connection_UnitOfWork->saveGraph(Object(Headers))
+#3 /home/formacion/public_html/p5/intranet/cargas.php(162): Doctrine_Record->save()
+#4 {main}
+  thrown in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Transaction.php on line 265
+[19-Oct-2017 17:04:22 Europe/Madrid] PHP Warning:  mb_strlen() expects parameter 1 to be string, array given in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Validator.php on line 131
+[19-Oct-2017 17:04:22 Europe/Madrid] PHP Fatal error:  Uncaught exception 'Doctrine_Validator_Exception' with message 'Validation failed in class Headers
+
+  1 field had validation error:
+
+    * 1 validator failed on link (type)
+' in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Transaction.php:265
+Stack trace:
+#0 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Connection.php(1395): Doctrine_Transaction->commit(NULL)
+#1 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Connection/UnitOfWork.php(148): Doctrine_Connection->commit()
+#2 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record.php(1718): Doctrine_Connection_UnitOfWork->saveGraph(Object(Headers))
+#3 /home/formacion/public_html/p5/intranet/cargas.php(162): Doctrine_Record->save()
+#4 {main}
+  thrown in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Transaction.php on line 265
+[19-Oct-2017 17:04:34 Europe/Madrid] PHP Warning:  mb_strlen() expects parameter 1 to be string, array given in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Validator.php on line 131
+[19-Oct-2017 17:04:34 Europe/Madrid] PHP Fatal error:  Uncaught exception 'Doctrine_Validator_Exception' with message 'Validation failed in class Headers
+
+  1 field had validation error:
+
+    * 1 validator failed on link (type)
+' in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Transaction.php:265
+Stack trace:
+#0 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Connection.php(1395): Doctrine_Transaction->commit(NULL)
+#1 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Connection/UnitOfWork.php(148): Doctrine_Connection->commit()
+#2 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record.php(1718): Doctrine_Connection_UnitOfWork->saveGraph(Object(Headers))
+#3 /home/formacion/public_html/p5/intranet/cargas.php(162): Doctrine_Record->save()
+#4 {main}
+  thrown in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Transaction.php on line 265
+[19-Oct-2017 17:19:13 UTC] PHP Fatal error:  Class 'Doctrine_Query' not found in /home/formacion/public_html/p5/intranet/includes/menu.php on line 13
+[19-Oct-2017 17:23:28 UTC] PHP Fatal error:  Class 'Doctrine_Query' not found in /home/formacion/public_html/p5/intranet/includes/menu.php on line 13
+[19-Oct-2017 17:24:48 UTC] PHP Fatal error:  Class 'Doctrine_Query' not found in /home/formacion/public_html/p5/intranet/includes/menu.php on line 13
+[19-Oct-2017 17:26:26 UTC] PHP Fatal error:  Class 'Doctrine_Query' not found in /home/formacion/public_html/p5/intranet/includes/menu.php on line 13
+[19-Oct-2017 19:28:43 Europe/Madrid] PHP Warning:  getimagesize(): Filename cannot be empty in /home/formacion/public_html/p5/intranet/cargas.php on line 14
+[19-Oct-2017 19:29:35 Europe/Madrid] PHP Warning:  getimagesize(): Filename cannot be empty in /home/formacion/public_html/p5/intranet/cargas.php on line 14
+[19-Oct-2017 19:30:12 Europe/Madrid] PHP Warning:  getimagesize(): Filename cannot be empty in /home/formacion/public_html/p5/intranet/cargas.php on line 14
+[19-Oct-2017 19:31:15 Europe/Madrid] PHP Warning:  getimagesize(): Filename cannot be empty in /home/formacion/public_html/p5/intranet/cargas.php on line 14
+[23-Oct-2017 15:56:44 Europe/Madrid] PHP Fatal error:  Uncaught exception 'Doctrine_Validator_Exception' with message 'Validation failed in class Headers
+
+  1 field had validation error:
+
+    * 1 validator failed on title (length)
+' in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Transaction.php:265
+Stack trace:
+#0 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Connection.php(1395): Doctrine_Transaction->commit(NULL)
+#1 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Connection/UnitOfWork.php(148): Doctrine_Connection->commit()
+#2 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record.php(1718): Doctrine_Connection_UnitOfWork->saveGraph(Object(Headers))
+#3 /home/formacion/public_html/p5/intranet/cargas.php(162): Doctrine_Record->save()
+#4 {main}
+  thrown in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Transaction.php on line 265
+[23-Oct-2017 16:03:45 Europe/Madrid] PHP Fatal error:  Uncaught exception 'Doctrine_Validator_Exception' with message 'Validation failed in class Headers
+
+  1 field had validation error:
+
+    * 1 validator failed on title (length)
+' in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Transaction.php:265
+Stack trace:
+#0 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Connection.php(1395): Doctrine_Transaction->commit(NULL)
+#1 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Connection/UnitOfWork.php(148): Doctrine_Connection->commit()
+#2 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record.php(1718): Doctrine_Connection_UnitOfWork->saveGraph(Object(Headers))
+#3 /home/formacion/public_html/p5/intranet/cargas.php(162): Doctrine_Record->save()
+#4 {main}
+  thrown in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Transaction.php on line 265
+[23-Oct-2017 20:02:43 Europe/Madrid] PHP Fatal error:  Uncaught exception 'Doctrine_Validator_Exception' with message 'Validation failed in class Headers
+
+  1 field had validation error:
+
+    * 1 validator failed on title (length)
+' in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Transaction.php:265
+Stack trace:
+#0 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Connection.php(1395): Doctrine_Transaction->commit(NULL)
+#1 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Connection/UnitOfWork.php(148): Doctrine_Connection->commit()
+#2 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record.php(1718): Doctrine_Connection_UnitOfWork->saveGraph(Object(Headers))
+#3 /home/formacion/public_html/p5/intranet/cargas.php(162): Doctrine_Record->save()
+#4 {main}
+  thrown in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Transaction.php on line 265
+[23-Oct-2017 20:17:28 Europe/Madrid] PHP Fatal error:  Uncaught exception 'Doctrine_Record_UnknownPropertyException' with message 'Unknown record property / related component "description" on "Blog"' in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record/Filter/Standard.php:44
+Stack trace:
+#0 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record.php(1504): Doctrine_Record_Filter_Standard->filterSet(Object(Blog), 'description', NULL)
+#1 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record.php(1456): Doctrine_Record->_set('description', NULL, true)
+#2 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Access.php(60): Doctrine_Record->set('description', NULL)
+#3 /home/formacion/public_html/p5/intranet/cargas.php(276): Doctrine_Access->__set('description', NULL)
+#4 {main}
+  thrown in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record/Filter/Standard.php on line 44
+[23-Oct-2017 20:18:21 Europe/Madrid] PHP Fatal error:  Uncaught exception 'Doctrine_Record_UnknownPropertyException' with message 'Unknown record property / related component "description" on "Blog"' in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record/Filter/Standard.php:44
+Stack trace:
+#0 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record.php(1504): Doctrine_Record_Filter_Standard->filterSet(Object(Blog), 'description', NULL)
+#1 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record.php(1456): Doctrine_Record->_set('description', NULL, true)
+#2 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Access.php(60): Doctrine_Record->set('description', NULL)
+#3 /home/formacion/public_html/p5/intranet/cargas.php(276): Doctrine_Access->__set('description', NULL)
+#4 {main}
+  thrown in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record/Filter/Standard.php on line 44
+[23-Oct-2017 20:21:10 Europe/Madrid] PHP Fatal error:  Uncaught exception 'Doctrine_Record_UnknownPropertyException' with message 'Unknown record property / related component "description" on "Blog"' in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record/Filter/Standard.php:44
+Stack trace:
+#0 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record.php(1504): Doctrine_Record_Filter_Standard->filterSet(Object(Blog), 'description', NULL)
+#1 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record.php(1456): Doctrine_Record->_set('description', NULL, true)
+#2 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Access.php(60): Doctrine_Record->set('description', NULL)
+#3 /home/formacion/public_html/p5/intranet/cargas.php(276): Doctrine_Access->__set('description', NULL)
+#4 {main}
+  thrown in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record/Filter/Standard.php on line 44

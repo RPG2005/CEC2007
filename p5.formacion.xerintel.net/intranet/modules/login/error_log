@@ -1,0 +1,20 @@
+[31-Aug-2017 10:01:40 Europe/Madrid] PHP Fatal error:  Uncaught exception 'Doctrine_Exception' with message 'Couldn't find class User' in /home/javierma/public_html/devxerintel/lib/vendor/doctrine/Doctrine/Table.php:299
+Stack trace:
+#0 /home/javierma/public_html/devxerintel/lib/vendor/doctrine/Doctrine/Table.php(256): Doctrine_Table->initDefinition()
+#1 /home/javierma/public_html/devxerintel/lib/vendor/doctrine/Doctrine/Connection.php(1126): Doctrine_Table->__construct('User', Object(Doctrine_Connection_Mysql), true)
+#2 /home/javierma/public_html/devxerintel/lib/vendor/doctrine/Doctrine/Query.php(1942): Doctrine_Connection->getTable('User')
+#3 /home/javierma/public_html/devxerintel/lib/vendor/doctrine/Doctrine/Query.php(1740): Doctrine_Query->loadRoot('User', 'User')
+#4 /home/javierma/public_html/devxerintel/lib/vendor/doctrine/Doctrine/Query/From.php(88): Doctrine_Query->load('User')
+#5 /home/javierma/public_html/devxerintel/lib/vendor/doctrine/Doctrine/Query/Abstract.php(2077): Doctrine_Query_From->parse('User')
+#6 /home/javierma/public_html/devxerintel/lib/ven in /home/javierma/public_html/devxerintel/lib/vendor/doctrine/Doctrine/Table.php on line 299
+[31-Aug-2017 10:03:15 Europe/Madrid] PHP Fatal error:  Uncaught exception 'Doctrine_Exception' with message 'Couldn't find class Configs' in /home/javierma/public_html/devxerintel/lib/vendor/doctrine/Doctrine/Table.php:299
+Stack trace:
+#0 /home/javierma/public_html/devxerintel/lib/vendor/doctrine/Doctrine/Table.php(256): Doctrine_Table->initDefinition()
+#1 /home/javierma/public_html/devxerintel/lib/vendor/doctrine/Doctrine/Connection.php(1126): Doctrine_Table->__construct('Configs', Object(Doctrine_Connection_Mysql), true)
+#2 /home/javierma/public_html/devxerintel/lib/vendor/doctrine/Doctrine/Query.php(1942): Doctrine_Connection->getTable('Configs')
+#3 /home/javierma/public_html/devxerintel/lib/vendor/doctrine/Doctrine/Query.php(1740): Doctrine_Query->loadRoot('Configs', 'Configs')
+#4 /home/javierma/public_html/devxerintel/lib/vendor/doctrine/Doctrine/Query/From.php(88): Doctrine_Query->load('Configs')
+#5 /home/javierma/public_html/devxerintel/lib/vendor/doctrine/Doctrine/Query/Abstract.php(2077): Doctrine_Query_From->parse('Configs')
+#6 /home/javierma/public_htm in /home/javierma/public_html/devxerintel/lib/vendor/doctrine/Doctrine/Table.php on line 299
+[16-Oct-2017 14:52:27 Europe/Madrid] PHP Warning:  require(./lib/PHPMailer/src/Exception.php): failed to open stream: No existe el fichero o el directorio in /home/formacion/public_html/p5/lib/php/loadForms.php on line 7
+[16-Oct-2017 14:52:27 Europe/Madrid] PHP Fatal error:  require(): Failed opening required './lib/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/formacion/public_html/p5/lib/php/loadForms.php on line 7

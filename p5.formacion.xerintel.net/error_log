@@ -1,0 +1,179 @@
+[18-Oct-2017 19:06:20 Europe/Madrid] 
+[18-Oct-2017 19:06:20 Europe/Madrid] SI existe usuario 123
+[18-Oct-2017 19:06:20 Europe/Madrid] 
+[18-Oct-2017 19:06:38 Europe/Madrid] 
+[18-Oct-2017 19:06:38 Europe/Madrid] ------ Inicio de formupdateuser loadFroms.php --------
+[18-Oct-2017 19:06:38 Europe/Madrid] Varibale Post name su valor es:  
+[18-Oct-2017 19:06:38 Europe/Madrid] Varibale Post lastname su valor es:  
+[18-Oct-2017 19:06:38 Europe/Madrid] Varibale Post email su valor es:  
+[18-Oct-2017 19:06:38 Europe/Madrid] Varibale Post username su valor es:  
+[18-Oct-2017 19:06:38 Europe/Madrid] Varibale Post password su valor es:  
+[18-Oct-2017 19:06:38 Europe/Madrid] Varibale Post formupdateuser su valor es:  
+[18-Oct-2017 19:06:38 Europe/Madrid] Varibale Reg id su valor es: 58 
+[18-Oct-2017 19:06:38 Europe/Madrid] Varibale Reg token su valor es: 181017153526 
+[18-Oct-2017 19:06:38 Europe/Madrid] Varibale Reg username su valor es: elexterno 
+[18-Oct-2017 19:06:38 Europe/Madrid] Varibale Reg name su valor es: El 
+[18-Oct-2017 19:06:38 Europe/Madrid] Varibale Reg lastname su valor es: Externo 
+[18-Oct-2017 19:06:38 Europe/Madrid] Varibale Reg email su valor es: elexterno@hotmail.com 
+[18-Oct-2017 19:06:38 Europe/Madrid] Varibale Reg password su valor es: 123 
+[18-Oct-2017 19:06:38 Europe/Madrid] Varibale Reg checkemail su valor es: 1547862157725 
+[18-Oct-2017 19:09:35 Europe/Madrid] 
+[18-Oct-2017 19:09:35 Europe/Madrid] ------ Inicio de formupdateuser loadFroms.php --------
+[18-Oct-2017 19:09:35 Europe/Madrid] Varibale Post name su valor es: toto 
+[18-Oct-2017 19:09:35 Europe/Madrid] Varibale Post lastname su valor es: tato 
+[18-Oct-2017 19:09:35 Europe/Madrid] Varibale Post email su valor es: elexterno@hotmail.com12 
+[18-Oct-2017 19:09:35 Europe/Madrid] Varibale Post username su valor es: 123 
+[18-Oct-2017 19:09:35 Europe/Madrid] Varibale Post password su valor es: 12467 
+[18-Oct-2017 19:09:35 Europe/Madrid] Varibale Post formupdateuser su valor es:  
+[18-Oct-2017 19:09:35 Europe/Madrid] Varibale Reg id su valor es: 58 
+[18-Oct-2017 19:09:35 Europe/Madrid] Varibale Reg token su valor es: 181017153526 
+[18-Oct-2017 19:09:35 Europe/Madrid] Varibale Reg username su valor es: elexterno 
+[18-Oct-2017 19:09:35 Europe/Madrid] Varibale Reg name su valor es: El 
+[18-Oct-2017 19:09:35 Europe/Madrid] Varibale Reg lastname su valor es: Externo 
+[18-Oct-2017 19:09:35 Europe/Madrid] Varibale Reg email su valor es: elexterno@hotmail.com 
+[18-Oct-2017 19:09:35 Europe/Madrid] Varibale Reg password su valor es: 123 
+[18-Oct-2017 19:09:35 Europe/Madrid] Varibale Reg checkemail su valor es: 1547862157725 
+[18-Oct-2017 19:25:47 Europe/Madrid] 
+[18-Oct-2017 19:25:47 Europe/Madrid] SI existe usuario 123
+[18-Oct-2017 19:25:47 Europe/Madrid] 
+[18-Oct-2017 19:29:18 Europe/Madrid] 
+[18-Oct-2017 19:29:18 Europe/Madrid] ------ Inicio de formupdateuser loadFroms.php --------
+[18-Oct-2017 19:29:18 Europe/Madrid] Varibale Post name su valor es: Tato 
+[18-Oct-2017 19:29:18 Europe/Madrid] Varibale Post lastname su valor es:  
+[18-Oct-2017 19:29:18 Europe/Madrid] Varibale Post email su valor es:  
+[18-Oct-2017 19:29:18 Europe/Madrid] Varibale Post username su valor es:  
+[18-Oct-2017 19:29:18 Europe/Madrid] Varibale Post password su valor es:  
+[18-Oct-2017 19:29:18 Europe/Madrid] Varibale Post formupdateuser su valor es:  
+[18-Oct-2017 19:29:18 Europe/Madrid] Varibale Reg id su valor es: 58 
+[18-Oct-2017 19:29:18 Europe/Madrid] Varibale Reg token su valor es: 181017153526 
+[18-Oct-2017 19:29:18 Europe/Madrid] Varibale Reg username su valor es: elexterno 
+[18-Oct-2017 19:29:18 Europe/Madrid] Varibale Reg name su valor es: El 
+[18-Oct-2017 19:29:18 Europe/Madrid] Varibale Reg lastname su valor es: Externo 
+[18-Oct-2017 19:29:18 Europe/Madrid] Varibale Reg email su valor es: elexterno@hotmail.com 
+[18-Oct-2017 19:29:18 Europe/Madrid] Varibale Reg password su valor es: 123 
+[18-Oct-2017 19:29:18 Europe/Madrid] Varibale Reg checkemail su valor es: 1547862157725 
+[18-Oct-2017 19:29:18 Europe/Madrid] Varibale Post name su valor modificado: Tato antiguo valor
+[18-Oct-2017 19:29:18 Europe/Madrid] Varibale Post lastname su valor modificado:  antiguo valor
+[18-Oct-2017 19:29:18 Europe/Madrid] Varibale Post email su valor modificado:  antiguo valor
+[18-Oct-2017 19:29:18 Europe/Madrid] Varibale Post username su valor modificado:  antiguo valor
+[18-Oct-2017 19:29:18 Europe/Madrid] Varibale Post password su valor modificado:  antiguo valor
+[18-Oct-2017 19:29:18 Europe/Madrid] Varibale Post formupdateuser su valor modificado:  antiguo valor
+[18-Oct-2017 19:29:18 Europe/Madrid] exception 'Doctrine_Record_UnknownPropertyException' with message 'Unknown record property / related component "formupdateuser" on "UserWeb"' in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record/Filter/Standard.php:44
+Stack trace:
+#0 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record.php(1504): Doctrine_Record_Filter_Standard->filterSet(Object(UserWeb), 'formupdateuser', '')
+#1 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record.php(1456): Doctrine_Record->_set('formupdateuser', '', true)
+#2 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Access.php(60): Doctrine_Record->set('formupdateuser', '')
+#3 /home/formacion/public_html/p5/lib/php/loadForms.php(241): Doctrine_Access->__set('formupdateuser', '')
+#4 /home/formacion/public_html/p5/lib/php/loadAll.php(40): include_once('/home/formacion...')
+#5 /home/formacion/public_html/p5/includes/head.php(2): include('/home/formacion...')
+#6 /home/formacion/public_html/p5/index.php(2): include('/home/formacion...')
+#7 {main}
+[18-Oct-2017 19:33:57 Europe/Madrid] 
+[18-Oct-2017 19:33:57 Europe/Madrid] ------ Inicio de formupdateuser loadFroms.php --------
+[18-Oct-2017 19:33:57 Europe/Madrid] Varibale Post name su valor es: Tato 
+[18-Oct-2017 19:33:57 Europe/Madrid] Varibale Post lastname su valor es:  
+[18-Oct-2017 19:33:57 Europe/Madrid] Varibale Post email su valor es:  
+[18-Oct-2017 19:33:57 Europe/Madrid] Varibale Post username su valor es:  
+[18-Oct-2017 19:33:57 Europe/Madrid] Varibale Post password su valor es:  
+[18-Oct-2017 19:33:57 Europe/Madrid] Varibale Post formupdateuser su valor es:  
+[18-Oct-2017 19:33:57 Europe/Madrid] Varibale Reg id su valor es: 58 
+[18-Oct-2017 19:33:57 Europe/Madrid] Varibale Reg token su valor es: 181017153526 
+[18-Oct-2017 19:33:57 Europe/Madrid] Varibale Reg username su valor es: elexterno 
+[18-Oct-2017 19:33:57 Europe/Madrid] Varibale Reg name su valor es: El 
+[18-Oct-2017 19:33:57 Europe/Madrid] Varibale Reg lastname su valor es: Externo 
+[18-Oct-2017 19:33:57 Europe/Madrid] Varibale Reg email su valor es: elexterno@hotmail.com 
+[18-Oct-2017 19:33:57 Europe/Madrid] Varibale Reg password su valor es: 123 
+[18-Oct-2017 19:33:57 Europe/Madrid] Varibale Reg checkemail su valor es: 1547862157725 
+[18-Oct-2017 19:33:57 Europe/Madrid] Varibale Post lastname su valor modificado:  antiguo valor
+[18-Oct-2017 19:33:57 Europe/Madrid] Varibale Post email su valor modificado:  antiguo valor
+[18-Oct-2017 19:33:57 Europe/Madrid] Varibale Post username su valor modificado:  antiguo valor
+[18-Oct-2017 19:33:57 Europe/Madrid] Varibale Post password su valor modificado:  antiguo valor
+[18-Oct-2017 19:33:57 Europe/Madrid] Varibale Post formupdateuser su valor modificado:  antiguo valor
+[18-Oct-2017 19:33:57 Europe/Madrid] exception 'Doctrine_Record_UnknownPropertyException' with message 'Unknown record property / related component "formupdateuser" on "UserWeb"' in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record/Filter/Standard.php:44
+Stack trace:
+#0 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record.php(1504): Doctrine_Record_Filter_Standard->filterSet(Object(UserWeb), 'formupdateuser', '')
+#1 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record.php(1456): Doctrine_Record->_set('formupdateuser', '', true)
+#2 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Access.php(60): Doctrine_Record->set('formupdateuser', '')
+#3 /home/formacion/public_html/p5/lib/php/loadForms.php(241): Doctrine_Access->__set('formupdateuser', '')
+#4 /home/formacion/public_html/p5/lib/php/loadAll.php(40): include_once('/home/formacion...')
+#5 /home/formacion/public_html/p5/includes/head.php(2): include('/home/formacion...')
+#6 /home/formacion/public_html/p5/index.php(2): include('/home/formacion...')
+#7 {main}
+[18-Oct-2017 19:35:09 Europe/Madrid] 
+[18-Oct-2017 19:35:09 Europe/Madrid] ------ Inicio de formupdateuser loadFroms.php --------
+[18-Oct-2017 19:35:09 Europe/Madrid] Varibale Post name su valor es: Tato 
+[18-Oct-2017 19:35:09 Europe/Madrid] Varibale Post lastname su valor es:  
+[18-Oct-2017 19:35:09 Europe/Madrid] Varibale Post email su valor es:  
+[18-Oct-2017 19:35:09 Europe/Madrid] Varibale Post username su valor es:  
+[18-Oct-2017 19:35:09 Europe/Madrid] Varibale Post password su valor es:  
+[18-Oct-2017 19:35:09 Europe/Madrid] Varibale Post formupdateuser su valor es:  
+[18-Oct-2017 19:35:09 Europe/Madrid] Varibale Reg id su valor es: 58 
+[18-Oct-2017 19:35:09 Europe/Madrid] Varibale Reg token su valor es: 181017153526 
+[18-Oct-2017 19:35:09 Europe/Madrid] Varibale Reg username su valor es: elexterno 
+[18-Oct-2017 19:35:09 Europe/Madrid] Varibale Reg name su valor es: El 
+[18-Oct-2017 19:35:09 Europe/Madrid] Varibale Reg lastname su valor es: Externo 
+[18-Oct-2017 19:35:09 Europe/Madrid] Varibale Reg email su valor es: elexterno@hotmail.com 
+[18-Oct-2017 19:35:09 Europe/Madrid] Varibale Reg password su valor es: 123 
+[18-Oct-2017 19:35:09 Europe/Madrid] Varibale Reg checkemail su valor es: 1547862157725 
+[18-Oct-2017 19:35:09 Europe/Madrid] Varibale Post name su valor modificado: Tato antiguo valor
+[18-Oct-2017 19:35:09 Europe/Madrid] exception 'Doctrine_Record_UnknownPropertyException' with message 'Unknown record property / related component "save" on "UserWeb"' in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record/Filter/Standard.php:55
+Stack trace:
+#0 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record.php(1395): Doctrine_Record_Filter_Standard->filterGet(Object(UserWeb), 'save')
+#1 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record.php(1350): Doctrine_Record->_get('save', true)
+#2 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Access.php(72): Doctrine_Record->get('save')
+#3 /home/formacion/public_html/p5/lib/php/loadForms.php(248): Doctrine_Access->__get('save')
+#4 /home/formacion/public_html/p5/lib/php/loadAll.php(40): include_once('/home/formacion...')
+#5 /home/formacion/public_html/p5/includes/head.php(2): include('/home/formacion...')
+#6 /home/formacion/public_html/p5/index.php(2): include('/home/formacion...')
+#7 {main}
+[18-Oct-2017 19:38:22 Europe/Madrid] 
+[18-Oct-2017 19:38:22 Europe/Madrid] SI existe usuario 123
+[18-Oct-2017 19:38:22 Europe/Madrid] 
+[18-Oct-2017 19:38:32 Europe/Madrid] 
+[18-Oct-2017 19:38:32 Europe/Madrid] ------ Inicio de formupdateuser loadFroms.php --------
+[18-Oct-2017 19:38:32 Europe/Madrid] Varibale Post name su valor es: Tato 
+[18-Oct-2017 19:38:32 Europe/Madrid] Varibale Post lastname su valor es:  
+[18-Oct-2017 19:38:32 Europe/Madrid] Varibale Post email su valor es:  
+[18-Oct-2017 19:38:32 Europe/Madrid] Varibale Post username su valor es:  
+[18-Oct-2017 19:38:32 Europe/Madrid] Varibale Post password su valor es:  
+[18-Oct-2017 19:38:32 Europe/Madrid] Varibale Post formupdateuser su valor es:  
+[18-Oct-2017 19:38:32 Europe/Madrid] Varibale Reg id su valor es: 58 
+[18-Oct-2017 19:38:32 Europe/Madrid] Varibale Reg token su valor es: 181017153526 
+[18-Oct-2017 19:38:32 Europe/Madrid] Varibale Reg username su valor es: elexterno 
+[18-Oct-2017 19:38:32 Europe/Madrid] Varibale Reg name su valor es: El 
+[18-Oct-2017 19:38:32 Europe/Madrid] Varibale Reg lastname su valor es: Externo 
+[18-Oct-2017 19:38:32 Europe/Madrid] Varibale Reg email su valor es: elexterno@hotmail.com 
+[18-Oct-2017 19:38:32 Europe/Madrid] Varibale Reg password su valor es: 123 
+[18-Oct-2017 19:38:32 Europe/Madrid] Varibale Reg checkemail su valor es: 1547862157725 
+[18-Oct-2017 19:38:32 Europe/Madrid] Varibale Post name su valor modificado: Tato antiguo valor 2->name
+[18-Oct-2017 19:38:32 Europe/Madrid] exception 'Doctrine_Record_UnknownPropertyException' with message 'Unknown record property / related component "save" on "UserWeb"' in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record/Filter/Standard.php:55
+Stack trace:
+#0 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record.php(1395): Doctrine_Record_Filter_Standard->filterGet(Object(UserWeb), 'save')
+#1 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record.php(1350): Doctrine_Record->_get('save', true)
+#2 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Access.php(72): Doctrine_Record->get('save')
+#3 /home/formacion/public_html/p5/lib/php/loadForms.php(252): Doctrine_Access->__get('save')
+#4 /home/formacion/public_html/p5/lib/php/loadAll.php(40): include_once('/home/formacion...')
+#5 /home/formacion/public_html/p5/includes/head.php(2): include('/home/formacion...')
+#6 /home/formacion/public_html/p5/index.php(2): include('/home/formacion...')
+#7 {main}
+[18-Oct-2017 19:40:48 Europe/Madrid] 
+[18-Oct-2017 19:40:48 Europe/Madrid] ------ Inicio de formupdateuser loadFroms.php --------
+[18-Oct-2017 19:40:48 Europe/Madrid] Varibale Post name su valor es: Tato 
+[18-Oct-2017 19:40:48 Europe/Madrid] Varibale Post lastname su valor es:  
+[18-Oct-2017 19:40:48 Europe/Madrid] Varibale Post email su valor es:  
+[18-Oct-2017 19:40:48 Europe/Madrid] Varibale Post username su valor es:  
+[18-Oct-2017 19:40:48 Europe/Madrid] Varibale Post password su valor es:  
+[18-Oct-2017 19:40:48 Europe/Madrid] Varibale Post formupdateuser su valor es:  
+[18-Oct-2017 19:40:48 Europe/Madrid] Varibale Reg id su valor es: 58 
+[18-Oct-2017 19:40:48 Europe/Madrid] Varibale Reg token su valor es: 181017153526 
+[18-Oct-2017 19:40:48 Europe/Madrid] Varibale Reg username su valor es: elexterno 
+[18-Oct-2017 19:40:48 Europe/Madrid] Varibale Reg name su valor es: El 
+[18-Oct-2017 19:40:48 Europe/Madrid] Varibale Reg lastname su valor es: Externo 
+[18-Oct-2017 19:40:48 Europe/Madrid] Varibale Reg email su valor es: elexterno@hotmail.com 
+[18-Oct-2017 19:40:48 Europe/Madrid] Varibale Reg password su valor es: 123 
+[18-Oct-2017 19:40:48 Europe/Madrid] Varibale Reg checkemail su valor es: 1547862157725 
+[18-Oct-2017 19:40:48 Europe/Madrid] Varibale Post name su valor modificado: Tato antiguo valor 2->name
+[19-Oct-2017 13:40:51 UTC] PHP Fatal error:  Class 'Doctrine_Core' not found in /home/formacion/public_html/p5/lib/php/loadAll.php on line 10
+[19-Oct-2017 19:16:54 Europe/Madrid] 
+[19-Oct-2017 19:16:54 Europe/Madrid] SI existe usuario 123
+[19-Oct-2017 19:16:54 Europe/Madrid] 

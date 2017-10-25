@@ -1,0 +1,8 @@
+[24-Oct-2017 18:51:14 Europe/Madrid] PHP Fatal error:  Uncaught exception 'Doctrine_Record_UnknownPropertyException' with message 'Unknown record property / related component "countLikes" on "Blog"' in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record/Filter/Standard.php:55
+Stack trace:
+#0 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record.php(1395): Doctrine_Record_Filter_Standard->filterGet(Object(Blog), 'countLikes')
+#1 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record.php(1350): Doctrine_Record->_get('countLikes', true)
+#2 /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Access.php(72): Doctrine_Record->get('countLikes')
+#3 /home/formacion/public_html/p5/intranet/modules/blog/addblog.php(91): Doctrine_Access->__get('countLikes')
+#4 {main}
+  thrown in /home/formacion/public_html/p5/lib/vendor/doctrine/Doctrine/Record/Filter/Standard.php on line 55

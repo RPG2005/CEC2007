@@ -1,0 +1,412 @@
+html {
+    font-family: Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+h5 {
+    font-size: 1.28571429em;
+    font-weight: 700;
+    line-height: 1.2857em;
+    margin: 0;
+}
+
+.card {
+    font-size: 1em;
+    overflow: hidden;
+    padding: 0;
+    border: none;
+    border-radius: .28571429rem;
+    box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+}
+
+.card-block {
+    font-size: 1em;
+    position: relative;
+    margin: 0;
+    padding: 1em;
+    border: none;
+    border-top: 1px solid rgba(34, 36, 38, .1);
+    box-shadow: none;
+}
+
+.card-img-top {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.card-title {
+    font-size: 1.28571429em;
+    font-weight: 700;
+    line-height: 1.2857em;
+}
+
+.card-text {
+    clear: both;
+    margin-top: .5em;
+    color: rgba(0, 0, 0, .68);
+}
+
+.card-footer {
+    font-size: 1em;
+    position: static;
+    top: 0;
+    left: 0;
+    max-width: 100%;
+    padding: .75em 1em;
+    color: rgba(0, 0, 0, .4);
+    border-top: 1px solid rgba(0, 0, 0, .05) !important;
+    background: #fff;
+    text-align: center;
+}
+
+
+.card-inverse .btn {
+    border: 1px solid rgba(0, 0, 0, .05);
+}
+
+.profile {
+    position: absolute;
+    top: -12px;
+    display: inline-block;
+    overflow: hidden;
+    box-sizing: border-box;
+    width: 25px;
+    height: 25px;
+    margin: 0;
+    border: 1px solid #fff;
+    border-radius: 50%;
+}
+
+.profile-avatar {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.profile-inline {
+    position: relative;
+    top: 0;
+    display: inline-block;
+}
+
+.profile-inline ~ .card-title {
+    display: inline-block;
+    margin-left: 4px;
+    vertical-align: top;
+}
+
+.text-bold {
+    font-weight: 700;
+}
+
+.meta {
+    font-size: 1em;
+    color: rgba(0, 0, 0, .4);
+}
+
+.meta a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, .4);
+}
+
+.meta a:hover {
+    color: rgba(0, 0, 0, .87);
+}
+.card-logo-top{
+    position: fixed;
+    width: auto;
+    height: 60px;
+    align-content: center;
+    top: 10px;
+    z-index: 1200;
+}
+#botonactivar {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+.card-footer small {
+    text-align: center;
+}
+
+
+/*-----------------------------------------------------------------------------------*/
+/*	07. SOCIAL ICONS
+/*-----------------------------------------------------------------------------------*/
+.social {
+    padding: 0;
+    margin: 0 0 -5px 0;
+    font-size: 0;
+    line-height: 1;
+}
+.social li {
+    display: inline-block;
+    font-family: 'fontello-social';
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.text-center .social li {
+    margin: 0 2px
+}
+.social.pull-right li {
+    margin: 0 0 0 5px
+}
+.social li a {
+    display: table
+}
+.social li a i {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    color: #f5f5f5;
+    background: none;
+    line-height: 1;
+    border: 1px solid #aaa;
+    width: 28px;
+    height: 28px !important;
+    line-height: 1;
+    font-size: 12px;
+    -webkit-transition: all 200ms ease-in;
+    -o-transition: all 200ms ease-in;
+    -moz-transition: all 200ms ease-in;
+}
+.social .icon-s-pinterest {
+    border-color: #d8545d;
+    color: #d8545d;
+}
+.social .icon-s-rss {
+    border-color: #faaa5e;
+    color: #faaa5e;
+}
+.social .icon-s-facebook {
+    border-color: #677fb5;
+    color: #677fb5;
+}
+.social .icon-s-twitter {
+    border-color: #70c2e9;
+    color: #70c2e9;
+}
+.social .icon-s-flickr {
+    border-color: #ff3ba4;
+    color: #ff3ba4;
+}
+.social .icon-s-dribbble {
+    border-color: #e299c2;
+    color: #e299c2;
+}
+.social .icon-s-behance {
+    border-color: #42a9fb;
+    color: #42a9fb;
+}
+.social .icon-s-linkedin {
+    border-color: #3daccf;
+    color: #3daccf;
+}
+.social .icon-s-vimeo {
+    border-color: #42b5d4;
+    color: #42b5d4;
+}
+.social .icon-s-youtube {
+    border-color: #d5615c;
+    color: #d5615c;
+}
+.social .icon-s-skype {
+    border-color: #5ecbf3;
+    color: #5ecbf3;
+}
+.social .icon-s-tumblr {
+    border-color: #829fb9;
+    color: #829fb9;
+}
+.social .icon-s-delicious {
+    border-color: #6194dc;
+    color: #6194dc;
+}
+.social .icon-s-500px {
+    border-color: #3bbbe6;
+    color: #3bbbe6;
+}
+.social .icon-s-grooveshark {
+    border-color: #f88e3b;
+    color: #f88e3b;
+}
+.social .icon-s-forrst {
+    border-color: #5f9864;
+    color: #5f9864;
+}
+.social .icon-s-digg {
+    border-color: #507faa;
+    color: #507faa;
+}
+.social .icon-s-blogger {
+    border-color: #fd893f;
+    color: #fd893f;
+}
+.social .icon-s-klout {
+    border-color: #e16747;
+    color: #e16747;
+}
+.social .icon-s-dropbox {
+    border-color: #6ba3c5;
+    color: #6ba3c5;
+}
+.social .icon-s-github {
+    border-color: #6c93bb;
+    color: #6c93bb;
+}
+.social .icon-s-songkick {
+    border-color: #ff3b60;
+    color: #ff3b60;
+}
+.social .icon-s-posterous {
+    border-color: #efd57c;
+    color: #efd57c;
+}
+.social .icon-s-appnet {
+    border-color: #3daad5;
+    color: #3daad5;
+}
+.social .icon-s-gplus {
+    border-color: #bc7067;
+    color: #bc7067;
+}
+.social .icon-s-stumbleupon {
+    border-color: #f07356;
+    color: #f07356;
+}
+.social .icon-s-lastfm {
+    border-color: #cd443d;
+    color: #cd443d;
+}
+.social .icon-s-spotify {
+    border-color: #9acf48;
+    color: #9acf48;
+}
+.social .icon-s-instagram {
+    border-color: #926d53;
+    color: #926d53;
+}
+.social .icon-s-evernote {
+    border-color: #9fdc82;
+    color: #9fdc82;
+}
+.social .icon-s-paypal {
+    border-color: #5b85a8;
+    color: #5b85a8;
+}
+.social .icon-s-picasa {
+    border-color: #b088c1;
+    color: #b088c1;
+}
+.social .icon-s-soundcloud {
+    border-color: #ff8b45;
+    color: #ff8b45;
+}
+.social a:hover .icon-s-pinterest {
+    background-color: #d8545d
+}
+.social a:hover .icon-s-rss {
+    background-color: #faaa5e
+}
+.social a:hover .icon-s-facebook {
+    background-color: #677fb5
+}
+.social a:hover .icon-s-twitter {
+    background-color: #70c2e9
+}
+.social a:hover .icon-s-flickr {
+    background-color: #ff3ba4
+}
+.social a:hover .icon-s-dribbble {
+    background-color: #e299c2
+}
+.social a:hover .icon-s-behance {
+    background-color: #42a9fb
+}
+.social a:hover .icon-s-linkedin {
+    background-color: #3daccf
+}
+.social a:hover .icon-s-vimeo {
+    background-color: #42b5d4
+}
+.social a:hover .icon-s-youtube {
+    background-color: #d5615c
+}
+.social a:hover .icon-s-skype {
+    background-color: #5ecbf3
+}
+.social a:hover .icon-s-tumblr {
+    background-color: #829fb9
+}
+.social a:hover .icon-s-delicious {
+    background-color: #6194dc
+}
+.social a:hover .icon-s-500px {
+    background-color: #3bbbe6
+}
+.social a:hover .icon-s-grooveshark {
+    background-color: #f88e3b
+}
+.social a:hover .icon-s-forrst {
+    background-color: #5f9864
+}
+.social a:hover .icon-s-digg {
+    background-color: #507faa
+}
+.social a:hover .icon-s-blogger {
+    background-color: #fd893f
+}
+.social a:hover .icon-s-klout {
+    background-color: #e16747
+}
+.social a:hover .icon-s-dropbox {
+    background-color: #6ba3c5
+}
+.social a:hover .icon-s-github {
+    background-color: #6c93bb
+}
+.social a:hover .icon-s-songkick {
+    background-color: #ff3b60
+}
+.social a:hover .icon-s-posterous {
+    background-color: #efd57c
+}
+.social a:hover .icon-s-appnet {
+    background-color: #3daad5
+}
+.social a:hover .icon-s-gplus {
+    background-color: #bc7067
+}
+.social a:hover .icon-s-stumbleupon {
+    background-color: #f07356
+}
+.social a:hover .icon-s-lastfm {
+    background-color: #cd443d
+}
+.social a:hover .icon-s-spotify {
+    background-color: #9acf48
+}
+.social a:hover .icon-s-instagram {
+    background-color: #926d53
+}
+.social a:hover .icon-s-evernote {
+    background-color: #9fdc82
+}
+.social a:hover .icon-s-paypal {
+    background-color: #5b85a8
+}
+.social a:hover .icon-s-picasa {
+    background-color: #b088c1
+}
+.social a:hover .icon-s-soundcloud {
+    background-color: #ff8b45
+}
+.social a:hover a:hover i {
+    background-color: #FFF
+}
+.social a:hover i {
+    color: #FFF
+}
+
